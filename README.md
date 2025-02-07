@@ -1,6 +1,6 @@
 # paper_memo
 
-This repository contains summaries of the papers I have read in Issues.
+This repository contains summaries of the papers I have read on Notion.
 Most of them are about **Coloring,Color Pattern,GAN**.
 The images in the summaries are screenshots from the papers.
 
@@ -13,7 +13,7 @@ The images in the summaries are screenshots from the papers.
 
 ---
 
-機械学習論文のメモをIssuesにまとめています．
+機械学習論文のメモをNotionにまとめています．
 着色, 配色, GANに関する論文が多いです．
 画像は論文中のものを使用しています.
 
