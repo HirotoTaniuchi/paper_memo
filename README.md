@@ -3,8 +3,7 @@
 This repository contains summaries of the papers I have read on Notion.
 Most of them are about **Coloring,Color Pattern,GAN**.
 The images in the summaries are screenshots from the papers.
-
-> Note: These are personal notes, and there may be errors in the content.
+† These are personal notes, and there may be errors in the content.
 
 ## Tag List
 - a
