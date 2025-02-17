@@ -20,8 +20,11 @@ The images in the summaries are screenshots from the papers.
 ※あくまで個人用のメモであり，内容に誤り等がある可能性があります
 
 
+https://fork-stoat-72b.notion.site/145872dacfa5808ea95cc50c536ab179?v=290bd735e01e41c6a3b4c9b5fefc8622&pvs=4
+
+
 <iframe id="inline-frame"
-  width="表示する幅(px)"
-  height="表示する高さ(px)"
+  width="500"
+  height="500"
   src="https://fork-stoat-72b.notion.site/145872dacfa5808ea95cc50c536ab179?v=290bd735e01e41c6a3b4c9b5fefc8622&pvs=4">
 </iframe>
