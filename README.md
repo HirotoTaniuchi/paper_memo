@@ -1,6 +1,6 @@
 # paper_memo
 
-This repository contains [summaries of the papers](https://fork-stoat-72b.notion.site/145872dacfa5808ea95cc50c536ab179?v=290bd735e01e41c6a3b4c9b5fefc8622&pvs=4)I have read on Notion.
+This repository contains [summaries of the papers](https://fork-stoat-72b.notion.site/145872dacfa5808ea95cc50c536ab179?v=290bd735e01e41c6a3b4c9b5fefc8622&pvs=4) I have read on Notion.
 Most of them are about **Coloring,Color Pattern,GAN**.
 The images in the summaries are screenshots from the papers.
 
